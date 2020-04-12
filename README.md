@@ -1,0 +1,2 @@
+# afmdjango
+django project
